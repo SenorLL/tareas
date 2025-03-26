@@ -1,3 +1,4 @@
+#Realice un programa que me diga si un numero es primo o no
 num = int(input("Escribe un numero: "))
 x = 0
 for i in range(2,num-1):

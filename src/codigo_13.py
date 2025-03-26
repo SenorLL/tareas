@@ -1,3 +1,4 @@
+#Crea una lista con tus pizzas favoritas con almenos 3 elementos A) imprime un pensaje para cada elemento ej. "Me gusta la pizza de poto" B) Agrefa un elemento al final de la lista despues del for e imprimelo fuera del for ej. "Me gusta mucho la pizza de uva"
 pizzas = ["pepperoni", "hawaiana", "margarita"]
 for pizza in pizzas:
     if pizza == "pepperoni":

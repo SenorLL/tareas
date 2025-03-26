@@ -1,3 +1,5 @@
+#Pienza en al menos 3 animales diferentes que tengan caracteristicas similares. Almacenalos en una lista e imprime la lista de animales en un for A) imprime un mensaje para cada animal ej. "Un perro seria un gran amigo" B) agrega un elemento a la lista e imprimelo despues del for todos estos animales serian una gran mascota
+
 animales = ["perro","gato","conejo"]
 for animal in animales:
     if animal == "gato":

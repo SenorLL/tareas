@@ -1,3 +1,4 @@
+#Realice un programa que dadas dos palabras me diga si es un anagramada
 palabras = []
 coincidencias = 0
 palabras.append(input("Introduce una palabra: "))

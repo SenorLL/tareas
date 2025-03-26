@@ -1,3 +1,5 @@
+# haga un programa que calcule el factorial de un numero dado
+
 num = input("Escribe un numero el cual quiera calcular su factorial: ")
 if num.isnumeric() == True:
     num = int(num)

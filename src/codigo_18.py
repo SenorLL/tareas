@@ -1,3 +1,4 @@
+#realice un programa que imprima la serie de fibonacci hasta un numero dado
 num = int(input("Escribe un numero limite para mostrar la serie fibonacci: "))
 prim = 0
 seg = 1
